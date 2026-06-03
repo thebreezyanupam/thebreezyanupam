@@ -1,10 +1,15 @@
 <div align="center">
+  
+# Hey, I'm Anupam Pandey 👋
+### aka Breezy
 
-# Anupam Pandey
+Born in Nepal. Based in Hamilton, Ontario 🇨🇦
+I build things for the web — functional, polished, and genuinely enjoyable to use.
 
-**Frontend & Full Stack Developer · Ontario, Canada 🇨🇦**
+I'm also writing a horror novel, because apparently one obsession
+felt unnecessarily peaceful.
 
-I build interactive web apps, ML-powered experiences, and ship to production.
+*A nomad between projects — drawn to whatever's interesting, repelled by boredom.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-anupampandey.com-378ADD?style=flat&labelColor=0a0a0a)](https://www.anupampandey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-pandey-162029229)
@@ -95,9 +100,10 @@ I build interactive web apps, ML-powered experiences, and ship to production.
 
 ## 🎯 Currently
 
-- 💼 Based in Ontario, Canada — open to work (PGWP)
+- 💼 Based in Ontario, Canada — open to work
 - 🔍 Looking for **Junior Frontend / Full Stack Developer** roles
-- 🌱 Building more ML-powered interactive web experiences
+- 🌱 Building more modern and interactive web experiences
+- 📖 Writing *The Shape of Decay* — a literary horror novel, currently in beta reading
 - ☕ Support my work: [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/theanupamoh)
 
 ---
