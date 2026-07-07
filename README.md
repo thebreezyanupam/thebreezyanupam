@@ -25,13 +25,14 @@ felt unnecessarily peaceful.
 
 ## 🔥 Featured Projects
 
-| Project | What it does | Stack | Live |
-|--------|-------------|-------|------|
-| **FingerMate** | Chess game controlled by finger tracking + voice commands via webcam | React, MediaPipe, Web Speech API | [▶ Demo](https://fingermate-ml.vercel.app/) |
-| **STARLANE** | Browser game steered by real-time hand tracking via webcam | JS, MediaPipe, Canvas API | [▶ Demo](https://starlane-ml-game.vercel.app/) |
-| **Hakka Masala Corner** | Full stack restaurant web app built for a real client — live in production | Next.js, Node.js, MongoDB | [▶ Live](https://www.hakkamasalahamilton.ca/) |
-| **Breezy Bills** | Smart expense tracker PWA with ML spending insights | React, Node.js, Express, Firebase | [▶ Demo](https://breezybills.vercel.app/dashboard) |
-| **Guessagram** | Published Android game app on Google Play Store | React Native, AsyncStorage | [▶ Play Store](https://play.google.com/store/apps/details?id=com.guessagram) |
+| Project                  | What it does                                                                                    | Stack                             | Live                                                                         |
+| ------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------- |
+| **The Himalayan Hearth** | Modern restaurant website featuring menu, reservations, gallery, and responsive design          | Next.js, React, Tailwind CSS      | [▶ Live](https://the-himalayan-hearth.vercel.app/)                           |
+| **FingerMate**           | Chess game controlled by finger tracking + voice commands via webcam                            | React, MediaPipe, Web Speech API  | [▶ Demo](https://fingermate-ml.vercel.app/)                                  |
+| **Barbershop**           | Premium barbershop landing page with modern UI, service showcase, and online booking experience | Next.js, React, Tailwind CSS      | [▶ Live](https://barbershop-nu-seven.vercel.app/)                            |
+| **Breezy Bills**         | Smart expense tracker PWA with ML spending insights                                             | React, Node.js, Express, Firebase | [▶ Demo](https://breezybills.vercel.app/dashboard)                           |
+| **Guessagram**           | Published Android game app on Google Play Store                                                 | React Native, AsyncStorage        | [▶ Play Store](https://play.google.com/store/apps/details?id=com.guessagram) |
+
 
 ---
 
